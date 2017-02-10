@@ -1,0 +1,1 @@
+Try to work with GIT. Make first steps.
